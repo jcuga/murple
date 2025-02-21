@@ -1,10 +1,17 @@
-Hello world.
+# Introduction
+backstory
 
-# Testing 123
-this is a test
-
-# more to come
+# Gameplay
 coming soon
 
-## some stuff
+## Objective
+will be placed here
+
+## Controls
+will be placed here
+
+## Dangers
+will be placed here
+
+## Scoring
 will be placed here
