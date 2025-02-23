@@ -1,6 +1,5 @@
 Work in Progress.  Play the demo (first 5 levels):
-* Todo, link to download demo bin here.
-* Todo, link to javatari here.
+* [Murple-DEMO.bin]:/download/Murple-DEMO.bin
 
 ![Screenshot Level 1](/murple/assets/img/screenshot-l1.png)
 
