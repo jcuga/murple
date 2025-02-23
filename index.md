@@ -1,6 +1,7 @@
 Work in Progress.  Play the demo (first 5 levels):
 * [Murple-DEMO.bin][1]
-[1]:/download/Murple-DEMO.bin
+
+[1]:/murple/download/Murple-DEMO.bin
 
 ![Screenshot Level 1](/murple/assets/img/screenshot-l1.png)
 
@@ -139,4 +140,5 @@ Very little ROM was wasted in this process:
 ```
 (all 15 levels are already in the ROM, levels 6-15 are just stub data waiting to be tweaked...)
 
-:)
+
+P.S., There is a cheat-code to skip to any level :)
