@@ -1,5 +1,4 @@
-# Introduction
-backstory
+# Murple - Atari 2600 Game Manual
 
 # Gameplay
 coming soon
