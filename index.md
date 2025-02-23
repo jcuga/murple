@@ -5,6 +5,8 @@
 
 
 # Murple - Atari 2600 Game
+![Merve](/murple/assets/img/merve.png)
+
 You are `Merve`, a dedicated employee of the `Intergalactic Crayon Corporation` working diligently at the main factory on planet `Merph`.  Your job is to color batches of blank crayons so they can be shipped off to all of the girls and boys in the galaxy.
 
 ## Gameplay
@@ -46,6 +48,8 @@ At the bottom of the screen are drains that you can steer the droplets into to r
 ## What is murple? And other Dangers...
 `Murple` is a toxic byproduct of the crayon making process.  It forms when too much crayon color ink is mashed together.  It collects at the bottom of the factory floor in a large vat.
 
+![Murple Vat](/murple/assets/img/murple-vat.png)
+
 If you over-color a crayon, or hit the wall with your color droplet, more `murple` will collect in the vat.  If the vat overflows, you lose!
 
 ### Continue after Losing
@@ -59,21 +63,26 @@ Any time you complete a row of crayons, the amount of murple in the vat will go 
 As you advance through the levels, you'll encounter:
 
 ### Double Droplets
+![Double Droplet](/murple/assets/img/double-drop.png)
+
 These droplets are used twice.  Hitting a crayon will turn a double-droplet into a single droplet.  Plan ahead for where you're moving next after your current crayon target.
 
 The frequency of double-droplets will vary by level.
 
 ### Trampolines
+![Trampoline](/murple/assets/img/trampoline.png)
+
 Normally, you are always falling down.  Hit a trampoline and you will reverse direction.  This will help you reach otherwise impossible locations.
 
 Trampolines will cycle to different positions as you hit them.  They reset to the start when a new droplet enters from above.
 
 ### Toggle Switches
+![Toggle Switch](/murple/assets/img/toggle-switch.png)
+
 You can hit these to toggle parts of the playfield on/off.  They can open/close doors to make certain parts of the level accessible.
 
 ### Color Changing Pellet
-Hit these to change the color of your droplet.
-
+Rainbow colored squares.  Hit these to change the color of your droplet.
 
 ### Moving Obstacles
 These look like color changing pellets, but are the same color as the playfield, and moving.  Avoid hitting these as they'll pop your droplet and you'll take damage.
