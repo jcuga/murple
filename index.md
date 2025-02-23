@@ -1,5 +1,6 @@
 Work in Progress.  Play the demo (first 5 levels):
-* [Murple-DEMO.bin]:/download/Murple-DEMO.bin
+* [Murple-DEMO.bin][1]
+[1]:/download/Murple-DEMO.bin
 
 ![Screenshot Level 1](/murple/assets/img/screenshot-l1.png)
 
