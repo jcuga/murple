@@ -6,7 +6,7 @@ Work in Progress.  Play the demo (first 5 levels):
 
 
 # Murple - Atari 2600 Game
-![Merve](/assets/img/merve.png)
+![Merve](/murple/assets/img/merve.png)
 
 You are `Merve`, a dedicated employee of the `Intergalactic Crayon Corporation` working diligently at the main factory on planet `Merph`.  Your job is to color batches of blank crayons so they can be shipped off to all of the girls and boys in the galaxy.
 
