@@ -1,4 +1,9 @@
-# Murple - Atari 2600 Game Manual
+asdf
+
+# Murple - Atari 2600 Game
+asdf
+asdf
+asdf
 
 # Gameplay
 coming soon
