@@ -1,7 +1,7 @@
 * Todo, link to download demo bin here.
 * Todo, link to javatari here.
 
-![Screenshot Level 1](/murple/assets/screenshot-l1.png) ![Screenshot Level 2](/murple/assets/screenshot-l2.png) ![Screenshot Level 3](/murple/assets/screenshot-l3.png) ![Screenshot Level 4](/murple/assets/screenshot-l4.png)
+![Screenshot Level 1](/murple/assets/img/screenshot-l1.png) ![Screenshot Level 2](/murple/assets/img/screenshot-l2.png) ![Screenshot Level 3](/murple/assets/img/screenshot-l3.png) ![Screenshot Level 4](/murple/assets/img/screenshot-l4.png)
 
 
 # Murple - Atari 2600 Game
@@ -12,19 +12,19 @@ Colored droplets will fall from the top of the screen, one at a time.  You have 
 
 Crayons start off blank.
 
-![Blank Crayon](/murple/assets/crayon-blank.png)
+![Blank Crayon](/murple/assets/img/crayon-blank.png)
 
 One drop will half-color them.
 
-![Half Colored Crayon](/murple/assets/crayon-half.png)
+![Half Colored Crayon](/murple/assets/img/crayon-half.png)
 
 A second drop will complete them.
 
-![Fully Colored Crayon](/murple/assets/crayon-full.png)
+![Fully Colored Crayon](/murple/assets/img/crayon-full.png)
 
 Be careful not to hit any finished crayons with a third droplet, or they will turn murple colored!
 
-![Murple Crayon](/murple/assets/crayon-murple.png)
+![Murple Crayon](/murple/assets/img/crayon-murple.png)
 
 Once all of the crayons on screen are colored, they will be tallied and another row of blank crayons will appear.  You win the level when the crayon color quota has been met.
 
@@ -81,6 +81,8 @@ These look like color changing pellets, but are the same color as the playfield,
 
 ## Difficulty
 At the start of the game, players can select from `easy`, `medium`, and `hard`.
+
+![Select Difficulty](/murple/assets/img/difficulty-select.png)
 
 The easier difficulties mean slower movement and a smaller number of crayons required to advance to the next level.  Harder difficulties move more quickly and require more crayons to be completed.  Damage is more severe on harder difficutly as well.
 
