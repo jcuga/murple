@@ -1,3 +1,4 @@
+Work in Progress.  Play the demo (first 5 levels):
 * Todo, link to download demo bin here.
 * Todo, link to javatari here.
 
@@ -5,7 +6,7 @@
 
 
 # Murple - Atari 2600 Game
-![Merve](/murple/assets/img/merve.png)
+![Merve](./assets/img/merve.png)
 
 You are `Merve`, a dedicated employee of the `Intergalactic Crayon Corporation` working diligently at the main factory on planet `Merph`.  Your job is to color batches of blank crayons so they can be shipped off to all of the girls and boys in the galaxy.
 
@@ -128,5 +129,6 @@ Very little ROM was wasted in this process:
     1 bytes of ROM space left in bank 5
     24 bytes of ROM space left in bank 6
 ```
+(all 15 levels are already in the ROM, levels 6-15 are just stub data waiting to be tweaked...)
 
 :)
