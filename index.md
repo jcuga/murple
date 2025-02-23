@@ -2,8 +2,7 @@ Work in Progress.  Play the demo (first 5 levels):
 * Todo, link to download demo bin here.
 * Todo, link to javatari here.
 
-![Screenshot Level 1](/murple/assets/img/screenshot-l1.png) ![Screenshot Level 2](/murple/assets/img/screenshot-l2.png) ![Screenshot Level 3](/murple/assets/img/screenshot-l3.png) ![Screenshot Level 4](/murple/assets/img/screenshot-l4.png)
-
+![Screenshot Level 1](/murple/assets/img/screenshot-l1.png)
 
 # Murple - Atari 2600 Game
 ![Merve](/murple/assets/img/merve.png)
@@ -114,6 +113,15 @@ Coming soon.  Todo: chart of score values, note about difficulty and perfect-row
 * If the murple vat is almost full and you are about to lose, try to clear the current round of crayons as clearing a round will result in a damage reduction/vat level lowering.
 * Don't be too lopsided in the color of crayons!  If the inventory line at the bottom grows too far, it will tip over the murple vat and you'll lose!
 * If you have a double-droplet, plan ahead! If you are aiming for a certain crayon, is there a path for the remaining drop to still be used without hitting the wall?  Look for trampolines and toggle-switches to get you out of trouble.
+
+## Screenshots
+
+![Screenshot Level 2](/murple/assets/img/screenshot-l2.png)
+
+![Screenshot Level 3](/murple/assets/img/screenshot-l3.png)
+
+![Screenshot Level 4](/murple/assets/img/screenshot-l4.png)
+
 
 ## Credits
 Game and concept by `Justin Cuga`, 2025.
