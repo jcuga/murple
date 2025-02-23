@@ -47,6 +47,8 @@ At the bottom of the screen are drains that you can steer the droplets into to r
 * Pause the game with the `Color/BW` Switch, hit `Fire` to un-pause.
 
 ## What is murple? And other Dangers...
+![Overflowed Murple](/murple/assets/img/screenshot-lose-game.png)
+
 `Murple` is a toxic byproduct of the crayon making process.  It forms when too much crayon color ink is mashed together.  It collects at the bottom of the factory floor in a large vat.
 
 ![Murple Vat](/murple/assets/img/murple-vat.png)
