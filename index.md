@@ -29,9 +29,13 @@ Be careful not to hit any finished crayons with a third droplet, or they will tu
 
 ![Murple Crayon](/murple/assets/img/crayon-murple.png)
 
-Once all of the crayons on screen are colored, they will be tallied and another row of blank crayons will appear.  You win the level when the crayon color quota has been met.
+Once all of the crayons on screen are colored, they will be tallied and another row of blank crayons will appear.  You win the level when the crayon color quota has been met.  The current supply and quota are displayed at the bottom of the screen.  The vertical line is the target/goal amount.
+
+![Color bars and goal line](/murple/assets/img/color-bars.png)
 
 At the bottom of the screen are drains that you can steer the droplets into to recycle them if not needed.
+
+![Drain example](/murple/assets/img/drain-ex.png)
 
 ### Color Combinations
 * Two of any primary color (`red`, `yellow`, `blue`) make themselves.
@@ -112,10 +116,11 @@ Coming soon.  Todo: chart of score values, note about difficulty and perfect-row
 * Hold `Up` while moving--in harder difficulties and later levels, this is required to make it through tight turns!
 * If you don't have a use for the current color, move the droplet to one of the bottom exits to recyle it.
 * It's better to recycle some colors to wait for the right one and achieve a perfect round (one crayon of every color).
-* You can complete levels faster--and score more points--by coloring in a perfect round--you get an extra crayone of every color and a score bonus for each perfect round.
+* You can complete levels faster--and score more points--by coloring in a perfect round--you get an extra crayon of every color and a score bonus for each perfect round.
 * If the murple vat is almost full and you are about to lose, try to clear the current round of crayons as clearing a round will result in a damage reduction/vat level lowering.
 * Don't be too lopsided in the color of crayons!  If the inventory line at the bottom grows too far, it will tip over the murple vat and you'll lose!
 * If you have a double-droplet, plan ahead! If you are aiming for a certain crayon, is there a path for the remaining drop to still be used without hitting the wall?  Look for trampolines and toggle-switches to get you out of trouble.
+* If your color amounts collected so far are not even (color lines are different lengths at the bottom), you should still try and color in perfect rounds (one crayon of every color).  This is for two reasons:  First, you will receive an extra crayon of every color.  Second: when awarding extra crayons, you won't receive any that would make you exceed the goal line.  So the best approach is to aim for perfect rounds to double up on supply that will "even out" at the end if you previously had uneven amounts colored in.
 
 ## Screenshots
 
