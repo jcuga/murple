@@ -125,7 +125,7 @@ At the start of the game, players can select from `easy`, `medium`, and `hard`.
 
 ![Select Difficulty](/murple/assets/img/difficulty-select.png)
 
-The easier difficulties mean slower movement and a smaller number of crayons required to advance to the next level.  Harder difficulties move more quickly and require more crayons to be completed.  Damage is more severe on harder difficutly as well.
+The easier difficulties mean slower movement and a smaller number of crayons required to advance to the next level.  Harder difficulties move more quickly and require more crayons to be completed.  Damage is more severe on harder difficulty as well.
 
 Use the `left difficulty switch` to control long/short game mode.
 
@@ -143,9 +143,9 @@ Note that the longer game mode / harder difficulty mean a higher maximum possibl
 | Complete a Level (Easy/Medium difficulty) | `1000` |
 | Complete a Level (Hard difficulty) | `2000` |
 
-Note that you get an extra bonus on Hard difficulty, and that the number of crayons required to complete a level vary, thus the maxium possible score varies.  Also note that there are a total of `15` levels.
+Note that you get an extra bonus on Hard difficulty, and that the number of crayons required to complete a level vary, thus the maximum possible score varies.  Also note that there are a total of `15` levels.
 
-A perfect score for a level is acheived by filling in crayons perfectly--one of every color, every time.  Thus getting the perfect round bonus (`+500`).  Also, you have to not have any excess murple or inventory left over, as they result in reduced points at the end of the level.  Completing a round of crayons will award a small murple/damage reduction.  Completing a perfect round will award an even bigger reduction.
+A perfect score for a level is achieved by filling in crayons perfectly--one of every color, every time.  Thus getting the perfect round bonus (`+500`).  Also, you have to not have any excess murple or inventory left over, as they result in reduced points at the end of the level.  Completing a round of crayons will award a small murple/damage reduction.  Completing a perfect round will award an even bigger reduction.
 
 ### Maximum Score Per Game Mode
 | Difficulty | Left Difficulty Switch | Crayons Per Level | Max Possible Score |
@@ -160,11 +160,11 @@ A perfect score for a level is acheived by filling in crayons perfectly--one of 
 ### Score Penalties
 When you complete a level, you will receive a level bonus (`1000`, or `2000` on hard difficulty).  But you will also lose points for any extra murple in the vat (up to ~`-200` if the vat is really full), and for any "overstock" manufactured crayons.  Meaning, any finished crayon colors that pass the goal line will result in a score penalty.  The penalty is `-250` points per *column* of overstock. 
 
-* **TIP:** it is better to overstock crayons of different colors than by a bunch of the same color.  The penalty is per column, so for example, you recieve a bigger penalty for having 3 extra green crayons past the goal line than having 5 extra crayons, each of a different color.  So when you are trying to finish the last round of crayons to beat a level, and you have an uneven amount of inventory, try and "spread out" which colors are over the line versus a single line growing too long.
+* **TIP:** it is better to overstock crayons of different colors than by a bunch of the same color.  The penalty is per column, so for example, you receive a bigger penalty for having 3 extra green crayons past the goal line than having 5 extra crayons, each of a different color.  So when you are trying to finish the last round of crayons to beat a level, and you have an uneven amount of inventory, try and "spread out" which colors are over the line versus a single line growing too long.
 
 ## Tips & Tricks
 * Hold `Up` while moving--in harder difficulties and later levels, this is required to make it through tight turns!
-* If you don't have a use for the current color, move the droplet to one of the bottom exits to recyle it.
+* If you don't have a use for the current color, move the droplet to one of the bottom exits to recycle it.
 * It's better to recycle some colors to wait for the right one and achieve a perfect round (one crayon of every color).
 * You can complete levels faster--and score more points--by coloring in a perfect round--you get an extra crayon of every color and a score bonus for each perfect round.
 * If the murple vat is almost full and you are about to lose, try to clear the current round of crayons as clearing a round will result in a damage reduction/vat level lowering.
