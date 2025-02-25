@@ -62,7 +62,9 @@ If you over-color a crayon, or hit the wall with your color droplet, more `murpl
 ### Over Production
 Be sure not to make too much of any single color.  Your goal is the vertical line.  If you make so much that one of the inventory lines touch the murple vat, you lose!
 
-![Getting to be too much](/murple/assets/img/too-much-1.png) ![Too much you lose](/murple/assets/img/too-much-2.png)
+![Getting to be too much](/murple/assets/img/too-much-1.png)
+
+![Too much you lose](/murple/assets/img/too-much-2.png)
 
 ### Continue after Losing
 If you lose, you can still opt to keep playing from the current level, but your score will be reset to zero.
