@@ -29,13 +29,19 @@ Be careful not to hit any finished crayons with a third droplet, or they will tu
 
 ![Murple Crayon](/murple/assets/img/crayon-murple.png)
 
-Once all of the crayons on screen are colored, they will be tallied and another row of blank crayons will appear.  You win the level when the crayon color quota has been met.  The current supply and quota are displayed at the bottom of the screen.  The vertical line is the target/goal amount.
+Once all of the crayons on screen are fully colored (or murpled), they will be tallied and another row of blank crayons will appear.  You win the level when the crayon color quota has been met.  The current supply and quota are displayed at the bottom of the screen.  The vertical line is the target/goal amount.
 
 ![Color bars and goal line](/murple/assets/img/color-bars.png)
 
 At the bottom of the screen are drains that you can steer the droplets into to recycle them if not needed.
 
 ![Drain example](/murple/assets/img/drain-ex.png)
+
+If you accidentally color a crayon the wrong color--or turn some murple--don't worry, just keep playing.  When the current round of crayons are fully filled in, they will be tallied and a new rows of blank crayons will appear.
+
+If you think that you have colored in all six crayons but play continues, look again.  You probably have a half-colored crayon out there still.  The crayons are full when they have the two vertical black lines on them (right image), whereas half-filled crayons are half-checkered (left image):
+
+![Half versus Full Crayons](/murple/assets/img/half-versus-full.png)
 
 ### Color Combinations
 * Two of any primary color (`red`, `yellow`, `blue`) make themselves.
