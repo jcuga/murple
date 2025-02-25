@@ -59,6 +59,11 @@ At the bottom of the screen are drains that you can steer the droplets into to r
 
 If you over-color a crayon, or hit the wall with your color droplet, more `murple` will collect in the vat.  If the vat overflows, you lose!
 
+### Over Production
+Be sure not to make too much of any single color.  Your goal is the vertical line.  If you make so much that one of the inventory lines touch the murple vat, you lose!
+
+![Getting to be too much](/murple/assets/img/too-much-1.png) ![Too much you lose](/murple/assets/img/too-much-2.png)
+
 ### Continue after Losing
 If you lose, you can still opt to keep playing from the current level, but your score will be reset to zero.
 
@@ -94,6 +99,18 @@ Rainbow colored squares.  Hit these to change the color of your droplet.
 ### Moving Obstacles
 These look like color changing pellets, but are the same color as the playfield, and moving.  Avoid hitting these as they'll pop your droplet and you'll take damage.
 
+### Coloring a Perfect Round
+A `perfect round` is when you complete coloring all 6 crayons on screen, each with a unique color (red, yellow, blue, orange, purple, green).
+
+![Example Perfect Round](/murple/assets/img/perfect-round.png)
+
+There are several benefits to coloring a perfect round--and this should always be your goal when possible:
+
+* You receive an extra `500` points.
+* You receive a bonus column of inventory--an extra crayon of every color.  But if you are near the goal line, the bonus inventory will not be applied to any colors that would otherwise exceed the goal, thus avoiding any overstock score penalty.
+* The game plays an extra tune `:)`
+* An observant reader may ask "but if I get an extra column of inventory, doesn't that mean I have less opportunity to score points?"  Great question!  The answer is: yes, you don't have to color in as many crayons, but No: the `500` is worth more than a full set of crayons (`300`), so you still come out ahead.
+
 
 ## Difficulty
 At the start of the game, players can select from `easy`, `medium`, and `hard`.
@@ -110,7 +127,32 @@ Use the `left difficulty switch` to control long/short game mode.
 Note that the longer game mode / harder difficulty mean a higher maximum possible score.
 
 ## Scoring
-Coming soon.  Todo: chart of score values, note about difficulty and perfect-row bonus, max possible score per difficulty A/B game mode.
+| Action | Score Amount |
+|--------|---------------
+| Fully color a Crayon | `10` |
+| Tally a completed Crayon in the inventory | `40` |
+| Complete a perfect round (one of each color)  | `500` |
+| Complete a Level (Easy/Medium difficulty) | `1000` |
+| Complete a Level (Hard difficulty) | `2000` |
+
+Note that you get an extra bonus on Hard difficulty, and that the number of crayons required to complete a level vary, thus the maxium possible score varies.  Also note that there are a total of `15` levels.
+
+A perfect score for a level is acheived by filling in crayons perfectly--one of every color, every time.  Thus getting the perfect round bonus (`+500`).  Also, you have to not have any excess murple or inventory left over, as they result in reduced points at the end of the level.  Completing a round of crayons will award a small murple/damage reduction.  Completing a perfect round will award an even bigger reduction.
+
+### Maximum Score Per Game Mode
+| Difficulty | Left Difficulty Switch | Crayons Per Level | Max Possible Score |
+|---|---|---|----|
+| `Easy` | `B` | `6` of each color | `51,000` |
+| `Easy` | `A` | `8` of each color | `63,000` |
+| `Medium` | `B` | `7` of each color | `63,000` |
+| `Medium` | `A` | `9` of each color | `75,000` |
+| `Hard` | `B` | `8` of each color | `78,000` |
+| `Hard` | `A` | `10` of each color | `90,000` |
+
+### Score Penalties
+When you complete a level, you will receive a level bonus (`1000`, or `2000` on hard difficulty).  But you will also lose points for any extra murple in the vat (up to ~`-200` if the vat is really full), and for any "overstock" manufactured crayons.  Meaning, any finished crayon colors that pass the goal line will result in a score penalty.  The penalty is `-250` points per *column* of overstock. 
+
+* **TIP:** it is better to overstock crayons of different colors than by a bunch of the same color.  The penalty is per column, so for example, you recieve a bigger penalty for having 3 extra green crayons past the goal line than having 5 extra crayons, each of a different color.  So when you are trying to finish the last round of crayons to beat a level, and you have an uneven amount of inventory, try and "spread out" which colors are over the line versus a single line growing too long.
 
 ## Tips & Tricks
 * Hold `Up` while moving--in harder difficulties and later levels, this is required to make it through tight turns!
