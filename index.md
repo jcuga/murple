@@ -1,9 +1,14 @@
-Work in Progress.  Play the demo (first 5 levels):
-* [Murple-DEMO.bin][1]
+Work in Progress.  Play the demo:
+* [Murple-DEMO2.bin][2] - Now with 8 Levels & Title Screen/Music.
+* [Murple-DEMO.bin][1] - Original 5 Level Demo.
+
+The final game will have 20 levels.
 
 [1]:/murple/download/Murple-DEMO.bin
+[2]:/murple/download/Murple-DEMO2.bin
 
 ![Screenshot Level 1](/murple/assets/img/screenshot-l1.png)
+
 
 # Murple - Atari 2600 Game
 ![Merve](/murple/assets/img/merve.png)
@@ -185,17 +190,3 @@ When you complete a level, you will receive a level bonus (`1000`, or `2000` on 
 Game and concept by `Justin Cuga`, 2025.
 
 Written in `Batari Basic` (with some `asm`) using the `DPC+ kernel`.
-
-Very little ROM was wasted in this process:
-```
-    20 bytes of ROM space left in bank 1
-    24 bytes of ROM space left in bank 2
-    86 bytes of ROM space left in bank 3
-    1 bytes of ROM space left in bank 4
-    1 bytes of ROM space left in bank 5
-    24 bytes of ROM space left in bank 6
-```
-(all 15 levels are already in the ROM, levels 6-15 are just stub data waiting to be tweaked...)
-
-
-P.S., There is a cheat-code to skip to any level :)
