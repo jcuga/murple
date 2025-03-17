@@ -7,8 +7,8 @@ The final game will have 20 levels.
 [1]:/murple/download/Murple-DEMO.bin
 [2]:/murple/download/Murple-DEMO2.bin
 
-![Screenshot Level 1](/murple/assets/img/screenshot-l1.png)
-
+## Watch Gameplay Video
+[![Gameplay Video Link](https://img.youtube.com/vi/4iVuG-rKgX4/0.jpg)](https://www.youtube.com/watch?v=4iVuG-rKgX4)
 
 # Murple - Atari 2600 Game
 ![Merve](/murple/assets/img/merve.png)
