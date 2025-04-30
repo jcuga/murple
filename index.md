@@ -1,4 +1,4 @@
-## Murple - Atari 2600 Game
+**Murple - Atari 2600 Game**
 
 ### Play the `beta` release:
 * [MURPLE-beta1.1_NTSC.bin][1]
