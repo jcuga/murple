@@ -1,14 +1,14 @@
-Work in Progress.  Play the demo:
-* [Murple-DEMO2.bin][2] - Now with 8 Levels & Title Screen/Music.
-* [Murple-DEMO.bin][1] - Original 5 Level Demo.
+Play the Beta Release:
+* [MURPLE-beta1.1_NTSC.bin][1]
+* [MURPLE-beta1.1_PAL60.bin][2]
 
-The final game will have 20 levels.
+The Beta has 15 levels.  The final game will have 20.
 
-[1]:/murple/download/Murple-DEMO.bin
-[2]:/murple/download/Murple-DEMO2.bin
+[1]:/murple/download/MURPLE-beta1.1_NTSC.bin
+[2]:/murple/download/MURPLE-beta1.1_PAL60.bin
 
 ## Watch Gameplay Video
-[![Gameplay Video Link](https://img.youtube.com/vi/4iVuG-rKgX4/0.jpg)](https://www.youtube.com/watch?v=4iVuG-rKgX4)
+[![Gameplay Video Link](https://img.youtube.com/vi/blbiH17-Ecc/0.jpg)](https://www.youtube.com/watch?v=blbiH17-Ecc)
 
 # Murple - Atari 2600 Game
 ![Merve](/murple/assets/img/merve.png)
