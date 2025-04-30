@@ -64,8 +64,7 @@ If you think that you have colored in all six crayons but play continues, look a
 * Move color drops `left` & `right` with the `Joystick`.
 * Hold `up` to fall more slowly.
 * Hold `down` to fall faster.
-* `Fire` button is used for menu selection/continue and to un-pause.
-* Pause the game with the `Color/BW` Switch, hit `Fire` to un-pause.
+* `Fire` is used for pause/un-pause, and for menu selection.
 
 ### Control Options
 The `left difficulty switch` can be used to change the speed control behavior.
