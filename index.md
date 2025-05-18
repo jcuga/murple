@@ -9,7 +9,7 @@
 
 ### Connect on the AtariAge Forums
 
-* [Murple on AtariAge](https://forums.atariage.com/topic/379827-murple-wip-first-game-attempt-beta-11-now-with-pal60/)
+* [Murple on AtariAge](https://forums.atariage.com/topic/381795-murple-new-2600-homebrew-released-2025/)
 
 ### Watch Gameplay Video
 [![Gameplay Video Link](https://img.youtube.com/vi/blbiH17-Ecc/0.jpg)](https://www.youtube.com/watch?v=blbiH17-Ecc)
