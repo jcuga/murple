@@ -1,13 +1,11 @@
 **Murple - Atari 2600 Game**
 
-### Play the `beta` release:
-* [MURPLE-beta1.1_NTSC.bin][1]
-* [MURPLE-beta1.1_PAL60.bin][2]
+### Download
+* [Murple 1.0 (NTSC)][1]
+* [Murple 1.0 (PAL60)][2]
 
-The `beta` has 15 levels.  The final game will have 20.
-
-[1]:/murple/download/MURPLE-beta1.1_NTSC.bin
-[2]:/murple/download/MURPLE-beta1.1_PAL60.bin
+[1]:/murple/download/Murple-1.0_NTSC.bin
+[2]:/murple/download/Murple-1.0_PAL60.bin
 
 ### Connect on the AtariAge Forums
 
@@ -162,7 +160,6 @@ Note that the harder the difficulty, the higher the level-clear score bonus--mea
 A perfect score for a level is achieved by filling in crayons perfectly--one of every color, every time.  Thus getting the perfect round bonus (`+500`) each time.  Also, you have to not have any excess murple or inventory left over, as they result in reduced points at the end of the level.  Completing a round of crayons will award a small murple/damage reduction.  Completing a perfect round will award an even bigger reduction.
 
 ### Maximum Score Per Difficulty
-(these figures are for the final game with all 20 levels)
 | Difficulty | Max Possible Score |
 |---|---|
 | `Easy` | `63,000` |
